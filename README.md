@@ -39,6 +39,10 @@ On the second screen, prices for your selected coins will update every 10 second
 
 Use the "Back" button to return to the coin selection screen.
 
+<img width="498" height="683" alt="screen1" src="https://github.com/user-attachments/assets/9d2983e3-bc9c-4053-88fc-272d893ee5c4" />
+<img width="498" height="688" alt="searchscreen" src="https://github.com/user-attachments/assets/ed9c1ed3-20c8-4145-85ff-935cb73824a7" />
+<img width="296" height="418" alt="screen2" src="https://github.com/user-attachments/assets/92673df0-39c1-46aa-9103-f03c748ffcc2" />
+
 Development
 This application is built with Python and CustomTkinter. It fetches real-time data from the Binance API.
 
