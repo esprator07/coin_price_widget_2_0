@@ -44,3 +44,5 @@ This application is built with Python and CustomTkinter. It fetches real-time da
 
 License
 This project is licensed under the MIT License.
+
+Download the application from my official website: atakaneksi.com
